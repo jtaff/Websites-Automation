@@ -1,0 +1,25 @@
+{
+  "name": "websites-automation",
+  "version": "1.0.0",
+  "description": "Trilogy website automation",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.35.0",
+    "geckodriver": "^1.10.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtaff/Websites-Automation.git"
+  },
+  "author": "jtaff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtaff/Websites-Automation/issues"
+  },
+  "homepage": "https://github.com/jtaff/Websites-Automation#readme"
+}
